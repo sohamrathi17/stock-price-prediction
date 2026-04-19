@@ -13,9 +13,9 @@ Given the last 60 days of stock market data, the goal is to predict the next day
 ## Project Structure
 
 stock-price-prediction/
-├── stock_price_prediction_code.ipynb
-├── requirements.txt
-└── README.md
+    stock_price_prediction_code.ipynb
+    requirements.txt
+    README.md
 
 - stock_price_prediction_code.ipynb contains the full workflow including data analysis, feature engineering, model training, and evaluation
 - requirements.txt lists all required Python dependencies
@@ -84,7 +84,7 @@ Directional Accuracy   Percentage of correctly predicted price movement directio
 ## How to Run
 
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/stock-price-prediction.git
+git clone https://github.com/sohamrathi17/stock-price-prediction.git
 cd stock-price-prediction
 
 Install dependencies:
@@ -121,4 +121,4 @@ tensorflow>=2.12
 ## Author
 
 Soham Rathi
-sohamrathi.com
+(sohamrathi.com)
