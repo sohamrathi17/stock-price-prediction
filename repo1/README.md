@@ -138,4 +138,5 @@ tensorflow>=2.12
 
 ## 👤 Author
 
-> Add your name and links here (GitHub, LinkedIn, Kaggle).
+> Soham Rathi
+sohamrathi.com
